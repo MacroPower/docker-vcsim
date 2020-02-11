@@ -2,6 +2,8 @@
 
 This package implements a vSphere Web Services (SOAP) SDK endpoint intended for testing consumers of the API.
 
+[![Docker Pulls](https://img.shields.io/docker/pulls/macropower/vcsim.svg)](https://hub.docker.com/r/macropower/vcsim/builds/) [![Docker Build](https://img.shields.io/docker/cloud/build/macropower/vcsim)](https://hub.docker.com/r/macropower/vcsim/builds/) [![](https://images.microbadger.com/badges/image/macropower/vcsim.svg)](https://microbadger.com/images/macropower/vcsim "Get your own image badge on microbadger.com")
+
 ## Starting the simulator
 
 The simulator can simulate either a vCenter server (default) or an ESXi server.
