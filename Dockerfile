@@ -1,4 +1,4 @@
-FROM golang:1.14.0 as builder
+FROM golang:1.14.1 as builder
 LABEL name="vCenter Appliance Simulator"
 LABEL description="A VMware vCenter API mock server based on govmomi"
 LABEL url="https://github.com/vmware/govmomi/tree/master/vcsim"
